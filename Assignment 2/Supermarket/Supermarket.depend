@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1596547225 source:f:\amit embedded systems\assignments\assignment 2\supermarket\ice_cream.c
+	"ice_cream.h"
+
+1596547225 f:\amit embedded systems\assignments\assignment 2\supermarket\ice_cream.h
+
+1596548217 source:f:\amit embedded systems\assignments\assignment 2\supermarket\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ice_cream.h"
+

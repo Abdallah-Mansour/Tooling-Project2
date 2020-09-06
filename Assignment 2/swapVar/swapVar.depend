@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596548853 source:f:\amit embedded systems\assignments\assignment 2\swapvar\main.c
+	<stdio.h>
+	<stdlib.h>
+
